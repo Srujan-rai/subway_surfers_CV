@@ -12,6 +12,7 @@
    git clone https://github.com/your-username/subway-surfers-cv-control.git
 
 
-After that give pip install -r reguirements.txt
+After that give pip install -r requirements.txt
+
   
 
