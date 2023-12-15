@@ -11,8 +11,5 @@
    ```bash
    git clone https://github.com/your-username/subway-surfers-cv-control.git
 
-
-   in the terminal type : python cv.py
-
   
 
