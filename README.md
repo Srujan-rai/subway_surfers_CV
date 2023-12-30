@@ -9,7 +9,7 @@
    1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/subway-surfers-cv-control.git
+   git clone https://github.com/your-username/subway-surfers-cv-control.git...
 
   
 
